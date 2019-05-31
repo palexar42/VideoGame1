@@ -17,6 +17,9 @@ Make a new folder, e.x. VideoGame and put the unzipped folders inside of that fo
 
 At this point you should have a folder with engine and threejs in it.
 Go into engine folder and then right click on cs4143engine0 and open it with Mozilla Firefox to run the game.
+
+WARNING ---- When starting the game make sure your volume is low and then adjust as necessary. (it will hurt
+your ears at high volumes)
 =================================================
 Controls--
 
